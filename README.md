@@ -33,6 +33,7 @@ Mon objectif professionnel est de mettre la statistique, la Data Science et l'in
 
 J'interviens sur l'ensemble de la chaîne de valorisation de la donnée :
 
+
 ### 📥 Collecte & préparation
 
 ✔ Acquisition et intégration de données
@@ -41,6 +42,7 @@ J'interviens sur l'ensemble de la chaîne de valorisation de la donnée :
 ✔ Traitement des valeurs manquantes
 ✔ Détection des anomalies
 ✔ Fiabilisation des données
+
 
 ### 📊 Statistique
 
@@ -52,6 +54,7 @@ J'interviens sur l'ensemble de la chaîne de valorisation de la donnée :
 ✔ Segmentation
 ✔ Séries temporelles
 
+
 ### 🤖 Data Science
 
 ✔ Régression
@@ -61,6 +64,7 @@ J'interviens sur l'ensemble de la chaîne de valorisation de la donnée :
 ✔ Feature Engineering
 ✔ Évaluation et comparaison de modèles
 
+
 ### 📈 Business Intelligence
 
 ✔ Tableaux de bord
@@ -69,6 +73,7 @@ J'interviens sur l'ensemble de la chaîne de valorisation de la donnée :
 ✔ Reporting automatisé
 ✔ Data visualisation
 ✔ Restitution des résultats
+
 
 ### 🏛️ Statistique publique & aide à la décision
 
