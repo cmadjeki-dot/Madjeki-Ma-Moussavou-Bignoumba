@@ -1,4 +1,4 @@
-# 👋 Cédric MADJEKI — Portfolio Data, Statistique & Data Science
+# 👋 Cédric Paul MADJEKI-MA-MOUSSAVOU BIGNOUMBA — Portfolio Data, Statistique & Data Science
 
 ### Ingénieur statisticien • Data Scientist • Chargé d'études statistiques • Chef de projet Data
 
@@ -10,9 +10,11 @@
 
 ## 👨‍💻 À propos de moi
 
+<img src="assets/profile.png" alt="Photo de profil" width="180" style="border-radius: 50%; float: right; margin-left: 20px;" />
+
 Bienvenue sur mon portfolio.
 
-Je suis **Cédric MADJEKI**, statisticien et Data Scientist spécialisé dans l'analyse de données, la production statistique, la modélisation, la Data Science et l'aide à la décision.
+Je suis **Cédric Paul MADJEKI-MA-MOUSSAVOU BIGNOUMBA**, statisticien et Data Scientist spécialisé dans l'analyse de données, la production statistique, la modélisation, la Data Science et l'aide à la décision.
 
 Je dispose de **plus de 10 années d'expérience** dans la production statistique, le pilotage d'activités, le contrôle qualité des données, la construction d'indicateurs et le management d'équipe.
 
