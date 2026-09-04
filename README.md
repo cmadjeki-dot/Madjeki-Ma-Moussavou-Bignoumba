@@ -158,7 +158,7 @@ Mon portfolio est organisé autour de deux axes :
 🏛️ Note d'aide à la décision
 📈 Visualisations et indicateurs
 
-🔗 **Repository :** [Voir le projet](À-REMPLACER-PAR-URL-GITHUB)
+🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Evaluation_Dedoublement_CP_CE1_Education_Prioritaire)
 
 ---
 
@@ -186,7 +186,7 @@ Mon portfolio est organisé autour de deux axes :
 
 `Python` • `Pandas` • `Scikit-learn` • `Power BI` • `Git/GitHub`
 
-🔗 **Repository :** [Voir le projet](À-REMPLACER-PAR-URL-GITHUB)
+🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Impact_Equipements_Primaire)
 
 ---
 
@@ -290,7 +290,7 @@ Automatiser ou assister :
 * la documentation ;
 * la traçabilité des traitements.
 
-🔗 **Repository :** [Voir le projet](À-REMPLACER-PAR-URL-GITHUB)
+🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Portfolio-de-Projets-Data-Science-Intelligence-Artificielle)
 
 ---
 
@@ -313,7 +313,7 @@ Projet réalisé dans le cadre de ma certification **Data Analyst ENSAE-ENSAI / 
 
 `Python` • `Pandas` • `Statistiques descriptives` • `EDA` • `Visualisation`
 
-🔗 **Projet :** [Voir le repository](À-REMPLACER-PAR-URL-GITHUB)
+🔗 **Projet :** [Voir le repository](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%204)
 
 ---
 
@@ -347,7 +347,7 @@ Recommandations
 
 `Python` • `Pandas` • `ACP` • `Clustering` • `Data visualisation`
 
-🔗 **Projet :** [Voir le repository](À-REMPLACER-PAR-URL-GITHUB)
+🔗 **Projet :** [Voir le repository](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%205)
 
 ---
 
@@ -373,7 +373,7 @@ Développer un système statistique permettant d'identifier automatiquement si u
 
 `Python` • `Scikit-learn` • `Pandas` • `Matplotlib`
 
-🔗 **Projet :** [Voir le repository](À-REMPLACER-PAR-URL-GITHUB)
+🔗 **Projet :** [Voir le repository](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%206)
 
 ---
 
@@ -389,7 +389,7 @@ Analyser l'évolution de la consommation d'électricité et développer une dém
 
 `Séries temporelles` • `Analyse statistique` • `Prévision` • `Visualisation`
 
-🔗 **Projet :** [Voir le repository](À-REMPLACER-PAR-URL-GITHUB)
+🔗 **Projet :** [Voir le repository](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%209)
 
 ---
 
@@ -417,7 +417,7 @@ Modélisation
 Interprétation
 ```
 
-🔗 **Projet :** [Voir le repository](À-REMPLACER-PAR-URL-GITHUB)
+🔗 **Projet :** [Voir le repository](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%207)
 
 ---
 
