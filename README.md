@@ -192,7 +192,40 @@ Mon portfolio est organisé autour de deux axes :
 
 ---
 
-# 🏫 3. Chaîne statistique publique — Projet DEPP
+# 👨‍🏫 3. Observatoire statistique des pratiques enseignantes
+
+### Analyse statistique des pratiques professionnelles et des conditions d'apprentissage
+
+🎯 **Question**
+
+> Comment identifier et caractériser statistiquement différents profils de pratiques enseignantes et leurs associations avec les contextes professionnels ?
+
+### Objectifs
+
+* concevoir une enquête statistique reproductible ;
+* produire et contrôler des données synthétiques ;
+* mesurer différentes dimensions des pratiques enseignantes ;
+* prendre en compte le plan de sondage et la non-réponse ;
+* construire une typologie exploratoire des profils professionnels ;
+* restituer les résultats avec leurs incertitudes.
+
+### Méthodologie
+
+`Échantillonnage stratifié` • `Pondération` • `Psychométrie` • `Analyse factorielle` • `ACP` • `Typologie` • `Modèles survey`
+
+### Technologies
+
+`R` • `Quarto` • `renv` • `GitHub Actions`
+
+> ⚠️ Ce démonstrateur utilise des données simulées à des fins méthodologiques. Les résultats ne constituent pas des statistiques officielles de la DEPP et ne décrivent pas la population réelle des enseignants.
+
+🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/DEPP_B4_Pratiques_Enseignantes)<br>
+🌐 **Site publié :** [Consulter le démonstrateur](https://cmadjeki-dot.github.io/DEPP_B4_Pratiques_Enseignantes/)<br>
+📑 **Rapport scientifique :** [Lire le rapport](https://cmadjeki-dot.github.io/DEPP_B4_Pratiques_Enseignantes/reports/rapport_scientifique.html)
+
+---
+
+# 🏫 4. Chaîne statistique publique — Projet DEPP
 
 ### Simulation d'un projet statistique ministériel de bout en bout
 
@@ -248,7 +281,7 @@ Note d'aide à la décision
 
 ---
 
-# 🤖 4. DEPP virtuelle multi-agents
+# 🤖 5. DEPP virtuelle multi-agents
 
 ### Intelligence artificielle appliquée à la statistique publique
 
@@ -296,7 +329,7 @@ Automatiser ou assister :
 
 ---
 
-# 📊 5. Analyse des ventes d'une entreprise
+# 📊 6. Analyse des ventes d'une entreprise
 
 ### Analyse exploratoire & Business Intelligence
 
@@ -319,7 +352,7 @@ Projet réalisé dans le cadre de ma certification **Data Analyst ENSAE-ENSAI / 
 
 ---
 
-# 🌍 6. Étude de marché
+# 🌍 7. Étude de marché
 
 ### Analyse statistique pour l'aide à la décision
 
@@ -353,7 +386,7 @@ Recommandations
 
 ---
 
-# 💶 7. Détection de faux billets
+# 💶 8. Détection de faux billets
 
 ### Machine Learning — Classification
 
@@ -379,7 +412,7 @@ Développer un système statistique permettant d'identifier automatiquement si u
 
 ---
 
-# ⚡ 8. Prévision de la demande en électricité
+# ⚡ 9. Prévision de la demande en électricité
 
 ### Séries temporelles & prévision
 
@@ -395,7 +428,7 @@ Analyser l'évolution de la consommation d'électricité et développer une dém
 
 ---
 
-# 💰 9. Prévision des revenus
+# 💰 10. Prévision des revenus
 
 ### Modélisation prédictive
 
@@ -606,6 +639,7 @@ avec un intérêt particulier pour la **DEPP**, l'enseignement supérieur, la re
 | --------------------------- | -------------------- | ---------------------- | ---------------- |
 | 🏫 Dédoublement CP/CE1 REP+ | Politique éducative  | Évaluation, régression | Python, Power BI |
 | 💻 Équipements numériques   | Éducation            | EDA, régression        | Python           |
+| 👨‍🏫 Pratiques enseignantes  | Statistique éducative | Sondage, psychométrie, typologie | R, Quarto |
 | 🏛️ Chaîne statistique DEPP | Statistique publique | Pipeline complet       | Python, R, Git   |
 | 🤖 DEPP virtuelle           | IA / GovTech         | Agents IA              | Python, IA       |
 | 📊 Analyse des ventes       | Business Analytics   | EDA, statistiques      | Python           |
