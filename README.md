@@ -160,7 +160,9 @@ Mon portfolio est organisé autour de deux axes :
 🏛️ Note d'aide à la décision
 📈 Visualisations et indicateurs
 
-🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Evaluation_Dedoublement_CP_CE1_Education_Prioritaire)
+🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Evaluation_Dedoublement_CP_CE1_Education_Prioritaire)<br>
+🌐 **Site de présentation :** [Consulter le démonstrateur](https://cmadjeki-dot.github.io/Evaluation_Dedoublement_CP_CE1_Education_Prioritaire/)<br>
+📑 **Rapport scientifique :** [Lire le rapport final](https://github.com/cmadjeki-dot/Evaluation_Dedoublement_CP_CE1_Education_Prioritaire/blob/main/docs/rapport_final.md)
 
 ---
 
@@ -188,7 +190,9 @@ Mon portfolio est organisé autour de deux axes :
 
 `Python` • `Pandas` • `Scikit-learn` • `Power BI` • `Git/GitHub`
 
-🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Impact_Equipements_Primaire)
+🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Impact_Equipements_Primaire)<br>
+🌐 **Site de présentation :** [Consulter le démonstrateur](https://cmadjeki-dot.github.io/Impact_Equipements_Primaire/)<br>
+📑 **Rapport scientifique :** [Lire le rapport final](https://github.com/cmadjeki-dot/Impact_Equipements_Primaire/blob/main/docs/rapport_final.md)
 
 ---
 
@@ -310,7 +314,9 @@ Note d'aide à la décision
 
 `Python` • `R` • `SQL` • `Git` • `GitHub` • `Power BI`
 
-🔗 **Repository principal :** [Formation_DEPP_Python](https://github.com/cmadjeki-dot/Formation_DEPP_Python)
+🔗 **Repository principal :** [Formation_DEPP_Python](https://github.com/cmadjeki-dot/Formation_DEPP_Python)<br>
+🌐 **Site de présentation :** [Consulter le site](https://cmadjeki-dot.github.io/Formation_DEPP_Python/)<br>
+📑 **Rapport scientifique :** [Lire le rapport final](https://github.com/cmadjeki-dot/Formation_DEPP_Python/blob/main/docs/rapport_final.md)
 
 ---
 
@@ -358,7 +364,9 @@ Automatiser ou assister :
 * la documentation ;
 * la traçabilité des traitements.
 
-🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Portfolio-de-Projets-Data-Science-Intelligence-Artificielle)
+🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Portfolio-de-Projets-Data-Science-Intelligence-Artificielle)<br>
+🌐 **Présentation du projet :** [Consulter le repository](https://github.com/cmadjeki-dot/Portfolio-de-Projets-Data-Science-Intelligence-Artificielle)<br>
+📑 **Documentation :** [Lire la présentation et les livrables](https://github.com/cmadjeki-dot/Portfolio-de-Projets-Data-Science-Intelligence-Artificielle/blob/main/README.md)
 
 ---
 
@@ -382,6 +390,8 @@ Projet réalisé dans le cadre de ma certification **Data Analyst ENSAE-ENSAI / 
 `Python` • `Pandas` • `Statistiques descriptives` • `EDA` • `Visualisation`
 
 🔗 **Projet :** [Voir le repository](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%204)
+🌐 **Présentation du projet :** [Consulter le dossier GitHub](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%204)<br>
+📑 **Rapport / notebook :** [Consulter les livrables du projet](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%204)
 
 ---
 
@@ -416,6 +426,8 @@ Recommandations
 `Python` • `Pandas` • `ACP` • `Clustering` • `Data visualisation`
 
 🔗 **Projet :** [Voir le repository](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%205)
+🌐 **Présentation du projet :** [Consulter le dossier GitHub](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%205)<br>
+📑 **Rapport / notebook :** [Consulter les livrables du projet](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%205)
 
 ---
 
@@ -442,6 +454,8 @@ Développer un système statistique permettant d'identifier automatiquement si u
 `Python` • `Scikit-learn` • `Pandas` • `Matplotlib`
 
 🔗 **Projet :** [Voir le repository](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%206)
+🌐 **Présentation du projet :** [Consulter le dossier GitHub](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%206)<br>
+📑 **Rapport / notebook :** [Consulter les livrables du projet](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%206)
 
 ---
 
@@ -458,6 +472,8 @@ Analyser l'évolution de la consommation d'électricité et développer une dém
 `Séries temporelles` • `Analyse statistique` • `Prévision` • `Visualisation`
 
 🔗 **Projet :** [Voir le repository](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%209)
+🌐 **Présentation du projet :** [Consulter le dossier GitHub](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%209)<br>
+📑 **Rapport / notebook :** [Consulter les livrables du projet](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%209)
 
 ---
 
@@ -486,6 +502,8 @@ Interprétation
 ```
 
 🔗 **Projet :** [Voir le repository](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%207)
+🌐 **Présentation du projet :** [Consulter le dossier GitHub](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%207)<br>
+📑 **Rapport / notebook :** [Consulter les livrables du projet](https://github.com/cmadjeki-dot/Formation-Sciences-des-donn-es-Data-Aanalyst---Projets-r-alis-s/tree/main/Projet%207)
 
 ---
 
