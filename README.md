@@ -225,7 +225,40 @@ Mon portfolio est organisé autour de deux axes :
 
 ---
 
-# 🏫 4. Chaîne statistique publique — Projet DEPP
+# 🧭 4. Parcours et mobilité des personnels enseignants
+
+### Démonstrateur reproductible de statistique publique fondé sur les données de la DEPP
+
+🎯 **Question**
+
+> Quels profils et contextes territoriaux sont associés aux évolutions observées des personnels enseignants, et jusqu’où les données ouvertes permettent-elles d’étudier leurs mobilités et trajectoires professionnelles ?
+
+### Objectifs
+
+* analyser l’évolution des effectifs enseignants en équivalents temps plein ;
+* étudier les profils d’âge et d’ancienneté dans l’établissement ;
+* mesurer les disparités entre départements, académies et régions ;
+* documenter les limites des données ouvertes pour l’étude des trajectoires individuelles ;
+* auditer la faisabilité d’un panel, d’une analyse de survie et d’une prédiction à t+1 ;
+* produire des rapports, indicateurs et visualisations reproductibles.
+
+### Méthodologie
+
+`Contrôle qualité` • `Analyse descriptive` • `Analyse territoriale` • `Économétrie exploratoire` • `Audit de faisabilité` • `Explicabilité`
+
+### Technologies
+
+`R` • `Quarto` • `Shiny` • `targets` • `tidyverse` • `Git/GitHub`
+
+Le projet distingue explicitement **observation**, **association statistique**, **prédiction** et **causalité**. Les données disponibles sont principalement agrégées à l’échelle établissement × année : elles ne permettent donc pas d’identifier directement les trajectoires individuelles des personnels.
+
+🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/DEPP_A5_Mobilite_Personnels)<br>
+🌐 **Site de présentation :** [Consulter le démonstrateur](https://cmadjeki-dot.github.io/DEPP_A5_Mobilite_Personnels/)<br>
+📑 **Rapports :** [Note d’information](https://github.com/cmadjeki-dot/DEPP_A5_Mobilite_Personnels/blob/main/reports/note_information.qmd) · [Rapport méthodologique](https://github.com/cmadjeki-dot/DEPP_A5_Mobilite_Personnels/blob/main/reports/rapport_methodologique.qmd)
+
+---
+
+# 🏫 5. Chaîne statistique publique — Projet DEPP
 
 ### Simulation d'un projet statistique ministériel de bout en bout
 
@@ -281,7 +314,7 @@ Note d'aide à la décision
 
 ---
 
-# 🤖 5. DEPP virtuelle multi-agents
+# 🤖 6. DEPP virtuelle multi-agents
 
 ### Intelligence artificielle appliquée à la statistique publique
 
@@ -329,7 +362,7 @@ Automatiser ou assister :
 
 ---
 
-# 📊 6. Analyse des ventes d'une entreprise
+# 📊 7. Analyse des ventes d'une entreprise
 
 ### Analyse exploratoire & Business Intelligence
 
@@ -352,7 +385,7 @@ Projet réalisé dans le cadre de ma certification **Data Analyst ENSAE-ENSAI / 
 
 ---
 
-# 🌍 7. Étude de marché
+# 🌍 8. Étude de marché
 
 ### Analyse statistique pour l'aide à la décision
 
@@ -386,7 +419,7 @@ Recommandations
 
 ---
 
-# 💶 8. Détection de faux billets
+# 💶 9. Détection de faux billets
 
 ### Machine Learning — Classification
 
@@ -412,7 +445,7 @@ Développer un système statistique permettant d'identifier automatiquement si u
 
 ---
 
-# ⚡ 9. Prévision de la demande en électricité
+# ⚡ 10. Prévision de la demande en électricité
 
 ### Séries temporelles & prévision
 
@@ -428,7 +461,7 @@ Analyser l'évolution de la consommation d'électricité et développer une dém
 
 ---
 
-# 💰 10. Prévision des revenus
+# 💰 11. Prévision des revenus
 
 ### Modélisation prédictive
 
@@ -640,6 +673,7 @@ avec un intérêt particulier pour la **DEPP**, l'enseignement supérieur, la re
 | 🏫 Dédoublement CP/CE1 REP+ | Politique éducative  | Évaluation, régression | Python, Power BI |
 | 💻 Équipements numériques   | Éducation            | EDA, régression        | Python           |
 | 👨‍🏫 Pratiques enseignantes  | Statistique éducative | Sondage, psychométrie, typologie | R, Quarto |
+| 🧭 Mobilité des personnels  | Statistique publique | Territoires, faisabilité, économétrie | R, Quarto, Shiny |
 | 🏛️ Chaîne statistique DEPP | Statistique publique | Pipeline complet       | Python, R, Git   |
 | 🤖 DEPP virtuelle           | IA / GovTech         | Agents IA              | Python, IA       |
 | 📊 Analyse des ventes       | Business Analytics   | EDA, statistiques      | Python           |
