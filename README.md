@@ -262,7 +262,43 @@ Le projet distingue explicitement **observation**, **association statistique**, 
 
 ---
 
-# 🏫 5. Chaîne statistique publique — Projet DEPP
+# 🏛️ 5. Observatoire statistique de l'UPEC
+
+### Suivi des parcours étudiants et aide au pilotage de l'offre de formation
+
+🎯 **Problématique**
+
+> Comment articuler données de scolarité et enquêtes pour comprendre les parcours, évaluer les formations et contribuer au pilotage de l'offre de formation ?
+
+Ce projet simule une commande d'observatoire universitaire à partir de données synthétiques : 15 000 étudiants distincts et 31 816 inscriptions sur trois années universitaires.
+
+### Objectifs
+
+* suivre les inscriptions, la réussite et les parcours étudiants ;
+* analyser les résultats, les décisions de diplôme et le devenir des diplômés ;
+* exploiter les enquêtes en tenant compte de la non-réponse ;
+* produire des indicateurs et des recommandations pour les responsables de formation ;
+* documenter les limites des données et distinguer les associations de la causalité.
+
+### Méthodes et livrables
+
+`Contrôle qualité` • `Analyse descriptive et longitudinale` • `Analyse d'enquêtes` • `GLM logistique exploratoire` • `Indicateurs de pilotage`
+
+Pipeline reproductible avec `targets`, application Shiny à cinq vues filtrables, projet Power BI à cinq pages et rapport final.
+
+### Technologies
+
+`R` • `Shiny` • `Quarto` • `targets` • `Power BI` • `renv`
+
+> ⚠️ Démonstrateur personnel indépendant de l'UPEC : les données sont synthétiques et les résultats non officiels. Les associations simulées ne décrivent pas l'UPEC réelle et ne démontrent pas de causalité.
+
+🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Observatoire_Statistique_UPEC)<br>
+🌐 **Site et indicateurs interactifs :** [Consulter le démonstrateur](https://cmadjeki-dot.github.io/Observatoire_Statistique_UPEC/)<br>
+📑 **Rapport final :** [Lire le rapport](https://github.com/cmadjeki-dot/Observatoire_Statistique_UPEC/blob/main/docs/rapport_final.qmd)
+
+---
+
+# 🏫 6. Chaîne statistique publique — Projet DEPP
 
 ### Simulation d'un projet statistique ministériel de bout en bout
 
@@ -320,7 +356,7 @@ Note d'aide à la décision
 
 ---
 
-# 🤖 6. DEPP virtuelle multi-agents
+# 🤖 7. DEPP virtuelle multi-agents
 
 ### Intelligence artificielle appliquée à la statistique publique
 
@@ -370,7 +406,7 @@ Automatiser ou assister :
 
 ---
 
-# 📊 7. Analyse des ventes d'une entreprise
+# 📊 8. Analyse des ventes d'une entreprise
 
 ### Analyse exploratoire & Business Intelligence
 
@@ -395,7 +431,7 @@ Projet réalisé dans le cadre de ma certification **Data Analyst ENSAE-ENSAI / 
 
 ---
 
-# 🌍 8. Étude de marché
+# 🌍 9. Étude de marché
 
 ### Analyse statistique pour l'aide à la décision
 
@@ -431,7 +467,7 @@ Recommandations
 
 ---
 
-# 💶 9. Détection de faux billets
+# 💶 10. Détection de faux billets
 
 ### Machine Learning — Classification
 
@@ -459,7 +495,7 @@ Développer un système statistique permettant d'identifier automatiquement si u
 
 ---
 
-# ⚡ 10. Prévision de la demande en électricité
+# ⚡ 11. Prévision de la demande en électricité
 
 ### Séries temporelles & prévision
 
@@ -477,7 +513,7 @@ Analyser l'évolution de la consommation d'électricité et développer une dém
 
 ---
 
-# 💰 11. Prévision des revenus
+# 💰 12. Prévision des revenus
 
 ### Modélisation prédictive
 
@@ -692,6 +728,7 @@ avec un intérêt particulier pour la **DEPP**, l'enseignement supérieur, la re
 | 💻 Équipements numériques   | Éducation            | EDA, régression        | Python           |
 | 👨‍🏫 Pratiques enseignantes  | Statistique éducative | Sondage, psychométrie, typologie | R, Quarto |
 | 🧭 Mobilité des personnels  | Statistique publique | Territoires, faisabilité, économétrie | R, Quarto, Shiny |
+| 🏛️ Observatoire statistique UPEC | Enseignement supérieur | Parcours, enquêtes, indicateurs | R, Shiny, Power BI |
 | 🏛️ Chaîne statistique DEPP | Statistique publique | Pipeline complet       | Python, R, Git   |
 | 🤖 DEPP virtuelle           | IA / GovTech         | Agents IA              | Python, IA       |
 | 📊 Analyse des ventes       | Business Analytics   | EDA, statistiques      | Python           |
