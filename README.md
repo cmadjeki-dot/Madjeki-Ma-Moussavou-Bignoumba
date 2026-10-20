@@ -294,7 +294,7 @@ Pipeline reproductible avec `targets`, application Shiny à cinq vues filtrables
 
 🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Observatoire_Statistique_UPEC)<br>
 🌐 **Site et indicateurs interactifs :** [Consulter le démonstrateur](https://cmadjeki-dot.github.io/Observatoire_Statistique_UPEC/)<br>
-📑 **Rapport final :** [Lire le rapport](https://github.com/cmadjeki-dot/Observatoire_Statistique_UPEC/blob/main/docs/rapport_final.qmd)
+📑 **Rapport final Quarto :** [Lire le rapport](https://cmadjeki-dot.github.io/Observatoire_Statistique_UPEC/rapport_final.html)
 
 ---
 
