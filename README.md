@@ -262,39 +262,38 @@ Le projet distingue explicitement **observation**, **association statistique**, 
 
 ---
 
-# 🏛️ 5. Observatoire statistique de l'UPEC
+# 🏛️ 5. Observatoire statistique des parcours et de la réussite universitaire
 
 ### Suivi des parcours étudiants et aide au pilotage de l'offre de formation
 
 🎯 **Problématique**
 
-> Comment articuler données de scolarité et enquêtes pour comprendre les parcours, évaluer les formations et contribuer au pilotage de l'offre de formation ?
+> Comment exploiter les données de scolarité et les enquêtes étudiantes pour comprendre les parcours universitaires, évaluer les formations et éclairer le pilotage de l'offre de formation ?
 
-Ce projet simule une commande d'observatoire universitaire à partir de données synthétiques : 15 000 étudiants distincts et 31 816 inscriptions sur trois années universitaires.
+Ce démonstrateur professionnel simule une mission universitaire à partir de données entièrement synthétiques : 15 000 étudiants fictifs sur trois années universitaires et cinq formations fictives. Il couvre la fiabilisation des données, le suivi des inscriptions, de la réussite et des parcours, l'analyse des enquêtes et le devenir des diplômés.
 
 ### Objectifs
 
-* suivre les inscriptions, la réussite et les parcours étudiants ;
-* analyser les résultats, les décisions de diplôme et le devenir des diplômés ;
-* exploiter les enquêtes en tenant compte de la non-réponse ;
-* produire des indicateurs et des recommandations pour les responsables de formation ;
-* documenter les limites des données et distinguer les associations de la causalité.
+* suivre les effectifs, la validation et les transitions dans le temps ;
+* analyser les avis étudiants en tenant compte de la participation et de la non-réponse ;
+* décrire le devenir des diplômés lorsque l'horizon d'observation est atteint ;
+* produire des indicateurs traçables et des restitutions pour éclairer le pilotage des formations.
 
 ### Méthodes et livrables
 
-`Contrôle qualité` • `Analyse descriptive et longitudinale` • `Analyse d'enquêtes` • `GLM logistique exploratoire` • `Indicateurs de pilotage`
+`Contrôle qualité` • `Analyse descriptive et longitudinale` • `Analyse d'enquêtes` • `Indicateurs de pilotage` • `Restitution Quarto`
 
-Pipeline reproductible avec `targets`, application Shiny à cinq vues filtrables, projet Power BI à cinq pages et rapport final.
+Pipeline reproductible en R, tableaux de bord web, Shiny et Power BI, rapports Quarto et présentation.
 
 ### Technologies
 
-`R` • `Shiny` • `Quarto` • `targets` • `Power BI` • `renv`
+`R` • `Python` • `Shiny` • `Quarto` • `targets` • `Power BI`
 
-> ⚠️ Démonstrateur personnel indépendant de l'UPEC : les données sont synthétiques et les résultats non officiels. Les associations simulées ne décrivent pas l'UPEC réelle et ne démontrent pas de causalité.
+> ⚠️ Démonstrateur personnel indépendant de l'UPEC : les données sont synthétiques et les résultats non officiels.
 
-🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Observatoire_Statistique_UPEC)<br>
-🌐 **Site et indicateurs interactifs :** [Consulter le démonstrateur](https://cmadjeki-dot.github.io/Observatoire_Statistique_UPEC/)<br>
-📑 **Rapport final Quarto :** [Lire le rapport](https://cmadjeki-dot.github.io/Observatoire_Statistique_UPEC/rapport_final.html)
+🔗 **Repository :** [Voir le projet](https://github.com/cmadjeki-dot/Observatoire_Statistique_Parcours_Reussite_Universitaire)<br>
+🌐 **Site de présentation :** [Consulter le démonstrateur](https://cmadjeki-dot.github.io/Observatoire_Statistique_Parcours_Reussite_Universitaire/)<br>
+📑 **Rapport final Quarto :** [Lire le rapport](https://cmadjeki-dot.github.io/Observatoire_Statistique_Parcours_Reussite_Universitaire/rapport_final.html)
 
 ---
 
